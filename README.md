@@ -6,3 +6,6 @@
 - 🔐 The core framework is maintained privately at `bbpro-core-framework`
 
 > For licensing or legal inquiries, please reach out directly.
+
+> *BankSITE® is a registered trademark of The Forms Group, Inc.
+It is referenced here strictly for descriptive and historical purposes. No affiliation with or endorsement by The Forms Group, Inc. or BankSITE® Services is implied.*
