@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Bojan Josifoski
 
+[![Bojan Josifoski profile views](https://u8views.com/api/v1/github/profiles/116118374/views/day-week-month-total-count.svg)](https://u8views.com/github/codeverbojan)
+
 - 🇲🇰 From North Macedonia, building platforms used across the U.S.  
 - 🛠️ Creator and architect of **BBPro Core Framework (BankSITE® Builder Pro)** — a proprietary WordPress platform powering over 100 banks (2022–2025)  
 - 💼 Registered author under U.S. Copyright Case #: 1-14944175091  
