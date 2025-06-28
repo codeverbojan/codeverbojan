@@ -7,6 +7,13 @@
 - 💼 Registered author under U.S. Copyright Case #: 1-14944175091  
 - 🔐 The core framework is maintained privately at `bbpro-core-framework`
 
+## 🔍 BBPro Version Checker
+
+Check if your website is running the latest supported version of BBPro:
+
+👉 [bbpro.dev](https://bbpro.dev/)  
+📌 For banks, credit unions, agencies, and compliance teams.
+
 > For licensing or legal inquiries, please reach out directly.
 
 > *BankSITE® is a registered trademark of The Forms Group, Inc.
