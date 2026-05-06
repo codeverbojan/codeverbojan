@@ -34,23 +34,16 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
-      - name: Habits
+      - name: Isocalendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics-habits.svg
+          filename: metrics-calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: Europe/Skopje
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

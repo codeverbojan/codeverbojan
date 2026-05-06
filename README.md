@@ -34,7 +34,10 @@ Currently building **[SampleHQ](https://samplehq.io)**, a multi-tenant SaaS plat
 
 <p>
   <img src="https://github.com/codeverbojan/codeverbojan/blob/main/metrics-languages.svg" alt="Languages" />
-  <img src="https://github.com/codeverbojan/codeverbojan/blob/main/metrics-habits.svg" alt="Coding Habits" />
+</p>
+
+<p>
+  <img src="https://github.com/codeverbojan/codeverbojan/blob/main/metrics-calendar.svg" alt="Contribution Calendar" />
 </p>
 
 ## Featured Work
