@@ -16,12 +16,8 @@ jobs:
         with:
           filename: metrics-general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          base_indepth: yes
+          base: header
           config_timezone: Europe/Skopje
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_sections: base
 
       - name: Languages
         uses: lowlighter/metrics@latest
