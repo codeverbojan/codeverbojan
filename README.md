@@ -2,7 +2,7 @@
 
 [![Bojan Josifoski profile views](https://u8views.com/api/v1/github/profiles/116118374/views/day-week-month-total-count.svg)](https://u8views.com/github/codeverbojan)
 
-I build product infrastructure for SaaS companies, WordPress platforms, and AI-assisted development workflows.
+I build product infrastructure for SaaS companies, WordPress platforms, and AI-assisted development workflows. I ship with implementation plans, automated tests, and static analysis on every commit.
 
 Currently building **[SampleHQ](https://samplehq.io)**, a multi-tenant SaaS platform for packaging, label, material, and product sample workflows.
 
@@ -62,12 +62,6 @@ Interactive WordPress weather map plugin with Leaflet, GSAP scroll transitions, 
 | [claude-code-kickstart](https://github.com/codeverbojan/claude-code-kickstart) | AI coding workflow template for Claude Code |
 | [remotion-cinematic](https://github.com/codeverbojan/remotion-cinematic) | Product demo video generation with Remotion |
 | [weather-map-slider](https://github.com/codeverbojan/weather-map-slider) | Advanced WordPress / Leaflet / GSAP frontend interaction demo |
-
-## AI-Assisted Engineering
-
-I use Claude Code, Cursor, and structured review workflows to move faster without lowering engineering standards.
-
-My approach: small scoped tasks, implementation plans before code, automated tests, static analysis, human review, documentation as part of the build.
 
 ## About me
 
