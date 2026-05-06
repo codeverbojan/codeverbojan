@@ -29,11 +29,13 @@ Currently building **[SampleHQ](https://samplehq.io)**, a multi-tenant SaaS plat
 ## GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codeverbojan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=codeverbojan&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/codeverbojan/codeverbojan/blob/main/metrics-general.svg" alt="GitHub Stats" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeverbojan&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+<p>
+  <img src="https://github.com/codeverbojan/codeverbojan/blob/main/metrics-languages.svg" alt="Languages" />
+  <img src="https://github.com/codeverbojan/codeverbojan/blob/main/metrics-habits.svg" alt="Coding Habits" />
+</p>
 
 ## Featured Work
 
