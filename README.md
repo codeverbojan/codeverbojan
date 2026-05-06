@@ -8,12 +8,32 @@ Currently building **[SampleHQ](https://samplehq.io)**, a multi-tenant SaaS plat
 
 ## What I focus on
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat&logo=remotion&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
 - WordPress plugin and platform architecture
 - Multi-tenant SaaS systems
 - CRM integrations with HubSpot and Salesforce
 - Product workflow automation
 - AI-assisted engineering with Claude Code and Cursor
 - Developer tooling and repeatable build systems
+
+## GitHub Stats
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codeverbojan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=codeverbojan&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeverbojan&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ## Featured Work
 
@@ -48,7 +68,7 @@ My approach: small scoped tasks, implementation plans before code, automated tes
 
 18+ years building WordPress systems, custom plugins, SaaS workflows, and business-critical web platforms.
 
-- **SampleHQ**: [samplehq.io](https://samplehq.io)
-- **Company**: [codever.io](https://codever.io)
-- **Personal**: [bojanjosifoski.com](https://bojanjosifoski.com)
-- **LinkedIn**: [linkedin.com/in/bojan-josifoski-36197064](https://www.linkedin.com/in/bojan-josifoski-36197064)
+[![SampleHQ](https://img.shields.io/badge/SampleHQ-samplehq.io-0B84F3?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMNCAxNmg1djZoNnYtNmg1eiIvPjwvc3ZnPg==)](https://samplehq.io)
+[![Codever](https://img.shields.io/badge/Codever-codever.io-1a1a2e?style=flat)](https://codever.io)
+[![Website](https://img.shields.io/badge/Website-bojanjosifoski.com-333?style=flat&logo=googlechrome&logoColor=white)](https://bojanjosifoski.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bojan_Josifoski-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojan-josifoski-36197064)
