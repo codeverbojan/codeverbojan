@@ -1,5 +1,7 @@
 # Hi, I'm Bojan Josifoski
 
+[![Bojan Josifoski profile views](https://u8views.com/api/v1/github/profiles/116118374/views/day-week-month-total-count.svg)](https://u8views.com/github/codeverbojan)
+
 I build product infrastructure for SaaS companies, WordPress platforms, and AI-assisted development workflows.
 
 Currently building **[SampleHQ](https://samplehq.io)**, a multi-tenant SaaS platform for packaging, label, material, and product sample workflows.
