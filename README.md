@@ -23,7 +23,7 @@ Currently building **[SampleHQ](https://samplehq.io)**, a multi-tenant SaaS plat
 - Multi-tenant SaaS systems
 - CRM integrations with HubSpot and Salesforce
 - Product workflow automation
-- AI-assisted engineering with Claude Code and Cursor
+- AI-assisted engineering with Claude Code and Codex
 - Developer tooling and repeatable build systems
 
 ## GitHub Stats
